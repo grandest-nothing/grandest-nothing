@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Grandest-Nothing, but you can call me Rodolfo
+- Acesse o meu [LinkedIn](https://www.linkedin.com/in/rodolfo-ramosgn/)
+- Amante da tecnologia, atualmente Supervisor ST Nível 2 em uma empresa de Telecomunicação
+- Conhecimento em soluções Mikrotik e Ubiquiti
+- Atualmente me graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavasCript
