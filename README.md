@@ -3,9 +3,18 @@
 
 <div align="center">
 
-<img src="./logoRR.png?resize=200%2C200" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandest-nothing&layout=compact&langs_count=7&theme=dracula"/>
 
-I'm a Tech lover and eternal apprentice.
+<h2>Tech lover and eternal apprentice.</h2>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rpdox-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rpdox-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rpdox-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rpdox-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
 
 <details>
   <summary> More about me</summary>
@@ -47,6 +56,7 @@ const rodox = {
 [![GitHub: grandest-nothing](https://img.shields.io/github/followers/grandest-nothing?label=follow&style=social)](https://github.com/grandest-nothing)
 
 
-![snake gif](https://github.com/Giovani19leonel/Giovani19leonel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/grandest-nothing/grandest-nothing/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
