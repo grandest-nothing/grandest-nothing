@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Grandest-Nothing, but you can call me Rodolfo
-- Acesse o meu [LinkedIn](https://www.linkedin.com/in/rodolfo-ramosgn/)
-- Amante da tecnologia, atualmente Supervisor ST Nível 2 em uma empresa de Telecomunicação
-- Conhecimento em soluções Mikrotik e Ubiquiti
-- Atualmente me graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavasCript
+- Atualmente graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavasCript.
 
 <div align="center">
   
 <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+<img src="./logoRR.png?resize=200%2C200" />
+<img src="./SpookyScary.gif?resize=200%2C200" />
 
 I'm a Tech lover and eternal apprentice.
 
@@ -18,7 +17,7 @@ I'm a Tech lover and eternal apprentice.
 const rodox = {
     personal: {
         fullName: 'Rodolfo Ramos',
-        interests: ['music', 'games', 'wines', 'books'],
+        interests: ['technology', 'wines', 'books'],
         motivation: [
             'Learning more every day',
             'Making the world a better place',
@@ -26,6 +25,9 @@ const rodox = {
     },
     technical: {
         technologies: {
+            networking: {
+                Mikrotik: ['Full Routing', 'Hotspot', 'Firewall', 'Subnetting', 'IPv6'],
+                Ubiquiti: ['Server Controller', 'Automation', 'Remote Control'],
             frontEnd: {
                 Javascript: ['Vanilla JS', 'React'],
                 HTML: ['HTML5'],
@@ -34,7 +36,7 @@ const rodox = {
             backEnd: {
                 Javascript: ['Node.js']
             },
-            architecture: ['Single Page Applications'],
+            architecture: ['Linux Severs', 'Single Page Applications'],
         },
     }
 }
@@ -46,4 +48,3 @@ const rodox = {
 [![Linkedin: rodolfo-ramosgn](https://img.shields.io/badge/rodolfo-ramosgn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-ramosgn/)](https://www.linkedin.com/in/rodolfo-ramosgn/)
 [![GitHub: grandest-nothing](https://img.shields.io/github/followers/grandest-nothing?label=follow&style=social)](https://github.com/grandest-nothing)
 </div>
-
