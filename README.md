@@ -47,6 +47,6 @@ const rodox = {
 [![GitHub: grandest-nothing](https://img.shields.io/github/followers/grandest-nothing?label=follow&style=social)](https://github.com/grandest-nothing)
 
 
-<img src="./SpookyScary.gif" />
+![snake gif](https://github.com/Giovani19leonel/Giovani19leonel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
