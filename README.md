@@ -4,8 +4,6 @@
 <div align="center">
 
 <img src="./logoRR.png?resize=200%2C200" />
-<img src="./SpookyScary.gif" />
-<img src="./SpookyScary2.gif" />
 
 I'm a Tech lover and eternal apprentice.
 
@@ -47,4 +45,8 @@ const rodox = {
 [![Twitter: NothingGrandest](https://img.shields.io/twitter/follow/NothingGrandest?style=social)](https://twitter.com/NothingGrandest)
 [![Linkedin: rodolfo-ramosgn](https://img.shields.io/badge/rodolfo-ramosgn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-ramosgn/)](https://www.linkedin.com/in/rodolfo-ramosgn/)
 [![GitHub: grandest-nothing](https://img.shields.io/github/followers/grandest-nothing?label=follow&style=social)](https://github.com/grandest-nothing)
+
+
+<img src="./SpookyScary.gif" />
 </div>
+
