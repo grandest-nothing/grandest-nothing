@@ -2,10 +2,10 @@
 - Atualmente graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavasCript.
 
 <div align="center">
-  
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
 <img src="./logoRR.png?resize=200%2C200" />
-<img src="./SpookyScary.gif?resize=200%2C200" />
+<img src="./SpookyScary.gif" />
+<img src="./SpookyScary2.gif" />
 
 I'm a Tech lover and eternal apprentice.
 
