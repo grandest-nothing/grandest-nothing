@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grandest-Nothing, but you can call me Rodolfo
-- Atualmente graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavasCript.
+- Atualmente graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavaSript.
 
 <div align="center">
 
