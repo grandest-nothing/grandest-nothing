@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Grandest-Nothing, but you can call me Rodolfo
-- Atualmente graduando em Redes de Computadores, mas também um aprendiz de DEV, principalmente JavaScript.
+- 👋 Hi, I’m crazy, but you can call me Rodox
+- Designing life.
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandest-nothing&layout=compact&langs_count=7&theme=dracula"/>
 
-<h2>Tech lover and eternal apprentice.</h2>
+<h2>Tech lover and eternal apprentice</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rpdox-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,11 +23,11 @@
 ``` js
 const rodox = {
     personal: {
-        fullName: 'Rodolfo Ramos',
-        interests: ['technology', 'wines', 'books'],
+        fullName: 'tarnisehd',
+        interests: ['tech', 'wines', 'black holes'],
         motivation: [
-            'Learning more every day',
-            'Making the world a better place',
+            'fetching sense in senseless',
+            'global domination from my cat',
         ],
     },
     technical: {
@@ -39,11 +39,12 @@ const rodox = {
                 Javascript: ['Vanilla JS', 'React'],
                 HTML: ['HTML5'],
                 CSS: ['sass', 'styled-components'],
+                Design: ['figma', 'illustrator', 'indesign', 'photoshop', 'scraped paper'],
             },
             backEnd: {
                 Javascript: ['Node.js']
             },
-            architecture: ['Linux Severs', 'Single Page Applications'],
+            architecture: ['Linux Severs', 'network wizard', 'webapps'],
         },
     }
 }
