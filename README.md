@@ -1,7 +1,8 @@
-- 👋 Hi, I’m crazy, but you can call me Rodox
-- Designing life.
-
 <div align="center">
+
+<h2>👋 I’m crazy, but you can call me Rodox</h2>
+<h3>Designing Life</h3>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandest-nothing&layout=compact&langs_count=7&theme=dracula"/>
 
@@ -27,24 +28,24 @@ const rodox = {
         interests: ['tech', 'wines', 'black holes'],
         motivation: [
             'fetching sense in senseless',
-            'global domination from my cat',
+            'bringing synapses to life',
         ],
     },
     technical: {
         technologies: {
             networking: {
-                Mikrotik: ['Full Routing', 'Hotspot', 'Firewall', 'Subnetting', 'IPv6'],
-                Ubiquiti: ['Server Controller', 'Automation', 'Remote Control'],
+                Mikrotik: ['full routing', 'hotspot', 'firewall', 'subnetting', 'IPv6'],
+                Ubiquiti: ['server controller', 'automation', 'remote control'],
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React'],
+                Javascript: ['vanilla JS', 'react'],
                 HTML: ['HTML5'],
                 CSS: ['sass', 'styled-components'],
                 Design: ['figma', 'illustrator', 'indesign', 'photoshop', 'scraped paper'],
             },
             backEnd: {
-                Javascript: ['Node.js']
+                Javascript: ['node.js']
             },
-            architecture: ['Linux Severs', 'network wizard', 'webapps'],
+            architecture: ['linux severs', 'network wizard', 'webapps'],
         },
     }
 }
